@@ -8,7 +8,7 @@ works on python3
 # Usage
 ---------------------------------------------------   
 git clone https://github.com/EH30/TrackIP  
-cd TrackIP
+cd TrackIP   
 pip install -r requirements.txt   
 python trackip.py   
 wait for the server to start   
